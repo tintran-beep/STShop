@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hHPXJJxIqh9oFksPJoXNq91nox5iT+QrMrn4bzULgzg=",
+  "Source": "STShop.Api",
+  "BasePath": "_content/STShop.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

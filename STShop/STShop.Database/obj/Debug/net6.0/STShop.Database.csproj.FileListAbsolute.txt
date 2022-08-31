@@ -1,0 +1,17 @@
+D:\Projects\STShop\STShop\STShop.Database\bin\Debug\net6.0\STShop.Database.deps.json
+D:\Projects\STShop\STShop\STShop.Database\bin\Debug\net6.0\STShop.Database.runtimeconfig.json
+D:\Projects\STShop\STShop\STShop.Database\bin\Debug\net6.0\STShop.Database.dll
+D:\Projects\STShop\STShop\STShop.Database\bin\Debug\net6.0\STShop.Database.pdb
+D:\Projects\STShop\STShop\STShop.Database\bin\Debug\net6.0\STShop.Library.dll
+D:\Projects\STShop\STShop\STShop.Database\bin\Debug\net6.0\STShop.Library.pdb
+D:\Projects\STShop\STShop\STShop.Database\obj\Debug\net6.0\STShop.Database.csproj.AssemblyReference.cache
+D:\Projects\STShop\STShop\STShop.Database\obj\Debug\net6.0\STShop.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\STShop\STShop\STShop.Database\obj\Debug\net6.0\STShop.Database.AssemblyInfoInputs.cache
+D:\Projects\STShop\STShop\STShop.Database\obj\Debug\net6.0\STShop.Database.AssemblyInfo.cs
+D:\Projects\STShop\STShop\STShop.Database\obj\Debug\net6.0\STShop.Database.csproj.CoreCompileInputs.cache
+D:\Projects\STShop\STShop\STShop.Database\obj\Debug\net6.0\STShop.Database.csproj.CopyComplete
+D:\Projects\STShop\STShop\STShop.Database\obj\Debug\net6.0\STShop.Database.dll
+D:\Projects\STShop\STShop\STShop.Database\obj\Debug\net6.0\refint\STShop.Database.dll
+D:\Projects\STShop\STShop\STShop.Database\obj\Debug\net6.0\STShop.Database.pdb
+D:\Projects\STShop\STShop\STShop.Database\obj\Debug\net6.0\STShop.Database.genruntimeconfig.cache
+D:\Projects\STShop\STShop\STShop.Database\obj\Debug\net6.0\ref\STShop.Database.dll

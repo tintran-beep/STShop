@@ -1,0 +1,12 @@
+D:\Projects\STShop\STShop\STShop.Logger\bin\Debug\net6.0\STShop.Logger.deps.json
+D:\Projects\STShop\STShop\STShop.Logger\bin\Debug\net6.0\STShop.Logger.dll
+D:\Projects\STShop\STShop\STShop.Logger\bin\Debug\net6.0\STShop.Logger.pdb
+D:\Projects\STShop\STShop\STShop.Logger\obj\Debug\net6.0\STShop.Logger.csproj.AssemblyReference.cache
+D:\Projects\STShop\STShop\STShop.Logger\obj\Debug\net6.0\STShop.Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\STShop\STShop\STShop.Logger\obj\Debug\net6.0\STShop.Logger.AssemblyInfoInputs.cache
+D:\Projects\STShop\STShop\STShop.Logger\obj\Debug\net6.0\STShop.Logger.AssemblyInfo.cs
+D:\Projects\STShop\STShop\STShop.Logger\obj\Debug\net6.0\STShop.Logger.csproj.CoreCompileInputs.cache
+D:\Projects\STShop\STShop\STShop.Logger\obj\Debug\net6.0\STShop.Logger.dll
+D:\Projects\STShop\STShop\STShop.Logger\obj\Debug\net6.0\refint\STShop.Logger.dll
+D:\Projects\STShop\STShop\STShop.Logger\obj\Debug\net6.0\STShop.Logger.pdb
+D:\Projects\STShop\STShop\STShop.Logger\obj\Debug\net6.0\ref\STShop.Logger.dll

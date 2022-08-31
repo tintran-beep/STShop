@@ -1,0 +1,12 @@
+D:\Projects\STShop\STShop\STShop.Model\bin\Debug\net6.0\STShop.Model.deps.json
+D:\Projects\STShop\STShop\STShop.Model\bin\Debug\net6.0\STShop.Model.dll
+D:\Projects\STShop\STShop\STShop.Model\bin\Debug\net6.0\STShop.Model.pdb
+D:\Projects\STShop\STShop\STShop.Model\obj\Debug\net6.0\STShop.Model.csproj.AssemblyReference.cache
+D:\Projects\STShop\STShop\STShop.Model\obj\Debug\net6.0\STShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\STShop\STShop\STShop.Model\obj\Debug\net6.0\STShop.Model.AssemblyInfoInputs.cache
+D:\Projects\STShop\STShop\STShop.Model\obj\Debug\net6.0\STShop.Model.AssemblyInfo.cs
+D:\Projects\STShop\STShop\STShop.Model\obj\Debug\net6.0\STShop.Model.csproj.CoreCompileInputs.cache
+D:\Projects\STShop\STShop\STShop.Model\obj\Debug\net6.0\STShop.Model.dll
+D:\Projects\STShop\STShop\STShop.Model\obj\Debug\net6.0\refint\STShop.Model.dll
+D:\Projects\STShop\STShop\STShop.Model\obj\Debug\net6.0\STShop.Model.pdb
+D:\Projects\STShop\STShop\STShop.Model\obj\Debug\net6.0\ref\STShop.Model.dll

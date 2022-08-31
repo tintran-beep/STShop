@@ -1,0 +1,12 @@
+D:\Projects\STShop\STShop\STShop.Library\bin\Debug\net6.0\STShop.Library.deps.json
+D:\Projects\STShop\STShop\STShop.Library\bin\Debug\net6.0\STShop.Library.dll
+D:\Projects\STShop\STShop\STShop.Library\bin\Debug\net6.0\STShop.Library.pdb
+D:\Projects\STShop\STShop\STShop.Library\obj\Debug\net6.0\STShop.Library.csproj.AssemblyReference.cache
+D:\Projects\STShop\STShop\STShop.Library\obj\Debug\net6.0\STShop.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\STShop\STShop\STShop.Library\obj\Debug\net6.0\STShop.Library.AssemblyInfoInputs.cache
+D:\Projects\STShop\STShop\STShop.Library\obj\Debug\net6.0\STShop.Library.AssemblyInfo.cs
+D:\Projects\STShop\STShop\STShop.Library\obj\Debug\net6.0\STShop.Library.csproj.CoreCompileInputs.cache
+D:\Projects\STShop\STShop\STShop.Library\obj\Debug\net6.0\STShop.Library.dll
+D:\Projects\STShop\STShop\STShop.Library\obj\Debug\net6.0\refint\STShop.Library.dll
+D:\Projects\STShop\STShop\STShop.Library\obj\Debug\net6.0\STShop.Library.pdb
+D:\Projects\STShop\STShop\STShop.Library\obj\Debug\net6.0\ref\STShop.Library.dll
